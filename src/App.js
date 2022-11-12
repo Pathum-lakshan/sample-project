@@ -1,11 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-<h1>hello world</h1>
-    </div>
+const App = ()=>{
+  return(
+<div>
+  <h2>
+    hello
+  </h2>
+</div>
   );
 }
 
