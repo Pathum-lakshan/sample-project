@@ -12,6 +12,8 @@ const App = ()=>{
   styles
   }>
     Sample Project
+
+    Just a test
   </h2>
   <Post/>
 </div>
