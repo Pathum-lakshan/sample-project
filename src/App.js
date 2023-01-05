@@ -11,7 +11,7 @@ const App = ()=>{
   <h2 style={
   styles
   }>
-    Sudeera test1
+    now test
 
 
     Just a test
