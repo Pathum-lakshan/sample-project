@@ -11,7 +11,8 @@ const App = ()=>{
   <h2 style={
   styles
   }>
-    Sample Project1
+    Sample test
+
 
     Just a test
   </h2>
